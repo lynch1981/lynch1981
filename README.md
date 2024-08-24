@@ -1,7 +1,7 @@
 Hi there 👋
 
-I am a C/C++ Developer
-----------------------
+I'm a C/C++ Developer
+---------------------
 * Very comfortable in C/C++
 * Familiarity with bash scripts
 * Understand scripting languages such as lua/python/perl
