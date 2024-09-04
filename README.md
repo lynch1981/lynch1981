@@ -10,3 +10,5 @@ I'm a C/C++ Developer
 * Understand application protocols such as HTTP, FTP, SMTP, etc.
 * Use of Git in product development.
 * Accept test-driven development
+
+[![lynch1981's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynch1981&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
