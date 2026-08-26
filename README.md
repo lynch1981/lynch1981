@@ -1,8 +1,10 @@
 # Lei Meng
 
 C/C++ systems programmer in Vancouver. I work on high-performance
-network paths: Nginx/OpenResty, eBPF/XDP, WAF, and policy-to-runtime
-compilers.
+network paths — Nginx/OpenResty, eBPF/XDP, WAF — and on the
+compiler/toolchains behind
+[OpenResty XRay](https://openresty.com/en/xray/)
+(dynamic tracing via Stap+, eBPF+, and GDB).
 
 **Currently:** compiling OPA Rego to LuaJIT in
 [rego2lua](https://github.com/lynch1981/rego2lua).
