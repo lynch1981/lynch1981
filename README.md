@@ -6,11 +6,14 @@ compiler/toolchains behind
 [OpenResty XRay](https://openresty.com/en/xray/)
 (dynamic tracing via Stap+, eBPF+, and GDB).
 
-**Currently:** compiling OPA Rego to LuaJIT in
-[rego2lua](https://github.com/lynch1981/rego2lua).
+**Currently:** building [VoidGate](https://github.com/lynch1981/VoidGate),
+an eBPF/XDP DDoS gatekeeper that drops attack traffic at line rate.
 
 ## Selected work
 
+- [VoidGate](https://github.com/lynch1981/VoidGate) — XDP DDoS gatekeeper
+  for a single Linux VM
+  ([site](https://lynch1981.github.io/VoidGate/))
 - [rego2lua](https://github.com/lynch1981/rego2lua) — source-to-source
   compiler: OPA Rego → Lua for LuaJIT 2.1 / OpenResty
 - [mini-fw](https://github.com/lynch1981/mini-fw) — small firewall on
